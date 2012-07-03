@@ -158,6 +158,9 @@ header ul a strong {
   display:block;
   color:#222;
 }
+header a.mdp img{
+  padding-bottom: 20px;
+}
 
 section {
   width:500px;
